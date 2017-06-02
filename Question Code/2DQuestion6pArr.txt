@@ -1,0 +1,52 @@
+<problem>
+
+<startouttext />
+What is <m display="mimetex">$\vec{A} + \vec{B}$</m> (<m display="mimetex">$\vec{A}$</m> plus <m display="mimetex">$\vec{B}$</m>)? <m>\\</m>
+<endouttext />
+
+<img alt="2DQuestion6p.png" src="/res/ndsu/johnbuncher/Vectors/2015Sp/Images/2DQuestion6p.png" encrypturl="no" />
+
+<part id="11">
+<radiobuttonresponse direction="vertical" max="10" id="12" randomize="yes">
+    <foilgroup>
+        <foil location="random" value="true" name="correct">
+            <startouttext />a<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil2">
+            <startouttext />b<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil3">
+            <startouttext />c<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil4">
+            <startouttext />d<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil5">
+            <startouttext />e<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil6">
+            <startouttext />f<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil7">
+            <startouttext />g<endouttext />
+        </foil>
+        <foil location="random" value="false" name="foil8">
+            <startouttext />h<endouttext />
+        </foil>
+    </foilgroup>
+</radiobuttonresponse>
+</part>
+
+
+<part id="13">
+<startouttext />
+Please explain your reasoning.
+<endouttext />
+<essayresponse id="14">
+    <textfield></textfield>
+</essayresponse>
+
+</part>
+<allow src="/res/ndsu/johnbuncher/Vectors/2015Sp/Images/2DQuestion6p.png" />
+</problem>
+
