@@ -35,6 +35,5 @@ Please explain your reasoning.
 </essayresponse>
 
 </part>
-<allow src="/res/ndsu/johnbuncher/Vectors/2015Sp/Images/Question4p.png" />
 <allow src="/res/ndsu/johnbuncher/Vectors/2015Sp/Images/Question4s.png" />
 </problem>
